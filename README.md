@@ -13,21 +13,10 @@ To run the app, please install Microsoft SQL Server and add database by running 
 Travel-Agency-Desktop-App\travelexperts-mssql.sql
 ```
 
-## How to use
-
-### Navigate
-<img src="images/navigation.gif" alt="easy navigate"></img>
-
-### Add a new package
-<img src="images/create_package.gif" alt="add new package"></img>
-
-### Add / Edit product supplier
-<img src="images/crud_PS.gif" alt="add edit PS"></img>
-
-### Add a new supplier
-<img src="images/add_supplier.gif" alt="add supplier"></img>
-
 ## Convenient features
+
+### Easy Navigation
+<img src="images/navigation.gif" alt="easy navigate"></img>
 
 ### Search
 <img src="images/search.gif" width="80%" alt="search"></img>
@@ -40,6 +29,17 @@ Travel-Agency-Desktop-App\travelexperts-mssql.sql
 ### Auto-complete
 <img src="images/auto_complete.gif" width="80%" alt="auto complete"></img>
 <br>Predict user's choice from the dropdown list.
+
+## How to use
+
+### Add a new package
+<img src="images/create_package.gif" alt="add new package"></img>
+
+### Add / Edit product supplier
+<img src="images/crud_PS.gif" alt="add edit PS"></img>
+
+### Add a new supplier
+<img src="images/add_supplier.gif" alt="add supplier"></img>
 
 ## Built With
 * IDE - *Microsoft Visual Studio Enterprise 2017*
