@@ -4,8 +4,11 @@
   <img src="images/preview.PNG" alt="preview"/>
 </kbd>
 <br>
-A database management Windows desktop application for a travel agency.
-Build with C# and MS Visual Studio.
+<h1></h1>
+<h6 align="center"> A database management Windows desktop application for a travel agency.
+Build with C# and MS Visual Studio. </h6>
+
+<h1></h1>
 
 ## Before using
 To run the app, please install Microsoft SQL Server and add database by running sql script under repository root directory.
